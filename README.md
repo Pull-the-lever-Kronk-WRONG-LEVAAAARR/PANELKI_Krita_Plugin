@@ -17,6 +17,6 @@ _Plugin to create and adjust basic comic panels in Krita_
 7. OK ("Готово").
 
 ## BUGS
-Gutter ("Канавка") calculations works correctly only in pixels.
-Preview displays current layer correctly if you use RGBA 8-bit color space.
-Color scheme of the Preview may be hard to see in some of the Krita's themes.
+- Gutter ("Канавка") calculations works correctly only in pixels.
+- Preview displays current layer correctly if you use RGBA 8-bit color space.
+- Color scheme of the Preview may be hard to see in some of the Krita's themes.
