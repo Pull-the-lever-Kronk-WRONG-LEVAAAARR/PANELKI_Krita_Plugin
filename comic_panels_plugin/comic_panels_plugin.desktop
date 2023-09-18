@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=comic_panels_plugin
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=panelki
+Comment=Extension for creatin comic panels
